@@ -1,0 +1,135 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    /* overflow: hidden; */
+}
+
+.enter {
+    width: 85% !important;
+}
+
+.head_table {
+    background: #355C6A !important;
+    color: #fff;
+
+}
+
+.login-page {
+    background: url("https://www3.0zz0.com/2021/10/16/18/662213986.png");
+    background-size: cover;
+}
+
+/*animation */
+
+.ml10 {
+    position: relative;
+    font-weight: 900;
+    font-size: 1.0em;
+    color: #fff;
+}
+
+.ml10 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-right: 0.05em;
+    overflow: hidden;
+}
+
+.ml10 .letter {
+    display: inline-block;
+    line-height: 1em;
+    transform-origin: 0 0;
+}
+
+.registration a {
+    color: #fff;
+}
+
+.not_found {
+    background: url('https://www10.0zz0.com/2021/10/19/18/467161712.png');
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    background-position: center center;
+    width: 1528px;
+    height: 718px;
+
+}
+
+/* ._404 {
+    margin: auto
+}
+
+._404 span {
+    font-size: 12rem;
+    font-family: fantasy;
+    color: #fff;
+    /* text-align: center; */
+/* margin: 50%;
+}
+
+*/
+
+._404 h1 {
+    font-family: fantasy;
+    color: #fff;
+    /* text-align: center; */
+}
+
+*/ .main-footer strong {
+    line-height: 0.5px !important;
+}
+
+.user_id {
+    width: 5% !important;
+}
+
+.user_email {
+    width: 20%;
+}
+
+.name {
+    width: 9% !important;
+}
+.hd_phone{
+    width: 11%
+}
+.user_age,
+.hd_status {
+    width: 7% !important;
+}
+/* .age,
+.status,
+.phone {
+    font-size: smaller !important;
+}
+
+.td_password {
+    font-size: 75% !important;
+} */
+
+.operation {
+    width: 12%;
+
+}
+.id {
+        font-size: 75% !important;
+
+}
+
+.card-title,
+.main-header {
+    width: 1254px !important;
+}
+
+.content-wrapper {
+    /* position: relative; */
+    overflow: hidden;
+}
+
+.slid {
+    margin-right: 0.5px;
+    margin-left: -7.5px;
+}
+
+.slid-min {
+    min-height: 721px !important;
+}
